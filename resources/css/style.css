@@ -1,0 +1,97 @@
+
+.pd20
+{
+	padding:20px;
+}
+.schauhan-product-item
+{
+	background:#fff;
+	-webkit-box-shadow: 0px 0px 24px 0px rgba(240,237,240,1);
+-moz-box-shadow: 0px 0px 24px 0px rgba(240,237,240,1);
+box-shadow: 0px 0px 24px 0px rgba(240,237,240,1);
+}
+.schauhan-product-slider {
+  background: #fff;
+  padding: 100px;
+}
+.schauhan-product-slider .carousel-control {
+  width: 5%;
+  background:none;
+}
+.schauhan-product-slider .carousel-control .glyphicon {
+	color:#000;
+}
+	
+.schauhan-product-item a {
+  color: #333;
+}
+.schauhan-product-item a:hover {
+  text-decoration: none;
+}
+.schauhan-product-item .schauhan-hline {
+  margin: 10px 0;
+  height: 1px;
+  background: #ccc;
+}
+@media all and (max-width: 768px) {
+  .schauhan-product-item {
+    margin-bottom: 30px;
+  }
+  
+   .pd20
+{
+	padding:20px;
+}
+  
+  .schauhan-product-title h4 a
+  {
+	 color:#333;
+  }
+}
+.schauhan-product-photo {
+  text-align: center;
+  height: 120px;
+  padding:15px;
+  background: #fff;
+}
+.schauhan-product-photo img {
+  height: 100%;
+  width:60%;
+  display: inline-block;
+}
+.schauhan-product-info {
+  background: #fff;
+  padding: 15px;
+}
+.schauhan-product-title h4 a
+{
+	 color:#333;
+}
+
+.schauhan-product-title h4 {
+  margin-top: 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.schauhan-product-rating, .schauhan-product-rating a  {
+  color: #333;
+  font-size:12px;
+}
+.schauhan-product-rating .active {
+  color: #FFB500;
+}
+.schauhan-product-price {
+  color:#fe4646;
+  font-size: 14px;
+}
+
+.mybt
+{
+	padding:5px;
+	font-size:12px;
+	background:#529cff;
+	border:none;
+	color:#fff;
+}
+
